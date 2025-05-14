@@ -55,9 +55,8 @@
 ---
 
 ## 📩 Связь  
-[![](https://img.shields.io/badge/Telegram- @ya_vitalyan-blue)](https://t.me/ya_vitalyan )  
-[![](https://img.shields.io/badge/Email-vitaly.sobolkov @yandex.ru-green)](mailto:vitaly.sobolkov@yandex.ru)  
-[![](https://img.shields.io/badge/GitHub-vitalysobolkov-darkgrey )](https://github.com/sobolkovv )  
+[![](https://img.shields.io/badge/Telegram-@ya_vitalyan-blue)](https://t.me/ya_vitalyan)
+[![](https://img.shields.io/badge/Email-vitaly.sobolkov@yandex.ru-green)](mailto:vitaly.sobolkov@yandex.ru)  
 
 ---
 
