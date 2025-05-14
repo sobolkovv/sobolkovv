@@ -20,14 +20,13 @@
 ---
 
 ## 🛡️ Мой стек  
-[![](https://img.shields.io/badge/Skills-SQL%20%7C%20BPMN%20%7C%20User%20Stories-blue )](https://github.com/vitalysobolkov )  
-[![](https://img.shields.io/badge/Tools-Confluence%20%7C%20Figma%20%7C%20Excel-orange )](https://github.com/vitalysobolkov )  
+[![](https://img.shields.io/badge/SQL%20%7C%20BPMN%20%7C%20User%20Stories-blue )](https://github.com/vitalysobolkov )  
+[![](https://img.shields.io/badge/Confluence%20%7C%20Figma%20%7C%20Excel-orange )](https://github.com/vitalysobolkov )  
 [![](https://img.shields.io/badge/Python%20%7C%20Data%20Analysis-yellow )](https://github.com/vitalysobolkov )  
 
 ---
 
-## 🏆 Квесты и достижения  
-### 🏆 **Квесты и достижения:**  
+## 🏆 Квесты и достижения   
 [![](https://img.shields.io/badge/Детектив_требований-brightgreen)](https://github.com/vitalysobolkov) – Раскрыл 50+ скрытых потребностей заказчика  
 [![](https://img.shields.io/badge/Мастер_диаграмм-blue)](https://github.com/vitalysobolkov) – Создал 15+ BPMN и ERD за время кофе-брейка  
 [![](https://img.shields.io/badge/Маг_данных-purple)](https://github.com/vitalysobolkov) – Превратил хаос в структурированные таблицы  
