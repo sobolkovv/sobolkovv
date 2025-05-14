@@ -32,7 +32,7 @@
 [![](https://img.shields.io/badge/Маг_данных-purple)](https://github.com/vitalysobolkov) – Превратил хаос в структурированные таблицы  
 [![](https://img.shields.io/badge/Переводчик_бизнеса-orange)](https://github.com/vitalysobolkov) – Перевёл 30+ нечётких запросов в конкретные задачи для команды разработки  
 [![](https://img.shields.io/badge/Охотник_за_багами-red)](https://github.com/vitalysobolkov) – Нашёл 20+ замечаний до этапа разработки  
-[![](https://img.shields.io/badge/Создатель_документации-yellow)](https://github.com/vitalysobolkov) – Написал SRS, которые поняли даже не IT-люди  
+[![](https://img.shields.io/badge/Создатель_документации-yellow)](https://github.com/vitalysobolkov) – Написал SRS, которые поняли даже людям не из-за IT 
 
 ---
 
