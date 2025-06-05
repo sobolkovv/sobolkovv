@@ -110,6 +110,6 @@ P. S.
 
 
 ## 📩 Связь со мной
-[![](https://img.shields.io/badge/Telegram-@ya_vitalyan-blue)](https://t.me/ya_vitalyan)
+[![](https://img.shields.io/badge/Telegram-@ya_vitalyan-blue)](https://t.me/sa_vitaly)
 [![](https://img.shields.io/badge/Email-vitaly.sobolkov@yandex.ru-green)](mailto:vitaly.sobolkov@yandex.ru)  
 ---
